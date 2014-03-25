@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+/Users/emma_christie/Documents/Sophomore Year/Sophomore Spring/whereto/.metadata/.plugins/org.eclipse.jdt.core
+1714207056.index
+304183131.index
